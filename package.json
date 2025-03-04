@@ -1,0 +1,25 @@
+{
+  "name": "finance",
+  "version": "1.0.0",
+  "description": "a application finance",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnreis/node-finance.git"
+  },
+  "author": "johnnreis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnreis/node-finance/issues"
+  },
+  "homepage": "https://github.com/johnnreis/node-finance#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "eslint": "^9.21.0",
+    "globals": "^16.0.0"
+  }
+}
